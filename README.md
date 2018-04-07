@@ -1,13 +1,7 @@
 
 # droppable-website
-[![forthebadge](http://forthebadge.com/images/badges/fo-real.svg)](http://forthebadge.com)[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 
 [![dependencies](https://david-dm.org/lifenautjoe/droppable-website.svg)](https://david-dm.org/lifenautjoe/droppable-website)
-
-<a href="https://bulma.io">
-  <img src="https://bulma.io/images/made-with-bulma.png" alt="Made with Bulma" width="128" height="24">
-</a>
-
 
 The website for the [droppable](https://github.com/lifenautjoe/droppable) library.
 
