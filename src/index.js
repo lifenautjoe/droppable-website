@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
 Vue.component('file-dropper', {
     template: `
-<div class="column is-narrow is-paddingless">
+<div class="column is-narrow is-paddingless droppable-item" role="button" tabindex="0">
         <b-tooltip label="Psst.. I'm a simple div element." animated position="is-bottom">
   <div class="button is-primary droppable-item" ref="droppable-item">
         <div class="columns is-mobile has-text-centered is-centered is-multiline">

@@ -3,4 +3,12 @@
     height: auto;
     min-width: 200px;
     padding:1.3rem;
+
+    &:focus{
+        outline: 0;
+    }
+
+    &:focus:not(:active){
+        box-shadow: 0 0 0 0.125em rgba(111, 14, 217, 0.25);
+    }
 }
